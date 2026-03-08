@@ -1,0 +1,5 @@
+C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt.dir
+C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/edit_cache.dir
+C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/rebuild_cache.dir
+C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt_autogen_timestamp_deps.dir
+C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt_autogen.dir

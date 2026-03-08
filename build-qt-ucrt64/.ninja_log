@@ -1,0 +1,12 @@
+# ninja log v7
+22	233	7947017218077946	HospitalManagmentQt_autogen/timestamp	4a4058cfde4549f9
+22	233	7947017218077946	HospitalManagmentQt_autogen/mocs_compilation.cpp	4a4058cfde4549f9
+22	233	7947017218077946	C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/timestamp	4a4058cfde4549f9
+22	233	7947017218077946	C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/mocs_compilation.cpp	4a4058cfde4549f9
+226	305	7946977163286127	CMakeFiles/HospitalManagmentQt.dir/HospitalManagmentQt_autogen/mocs_compilation.cpp.obj	3ed4ca249b209919
+281	3054	7947017220671241	CMakeFiles/HospitalManagmentQt.dir/qt_main.cpp.obj	4af08d944e432617
+6108	6382	7947017278918728	HospitalManagmentQt.exe	14cb1dd3cc47b7ac
+265	2579	7947017220498095	CMakeFiles/HospitalManagmentQt.dir/persistence/TsvDataStore.cpp.obj	5478dfac29e5b287
+235	3475	7947017220208896	CMakeFiles/HospitalManagmentQt.dir/app/HospitalContext.cpp.obj	fd0d4c6ce0923d98
+248	4004	7947017220289735	CMakeFiles/HospitalManagmentQt.dir/app/HospitalDataCoordinator.cpp.obj	d3bbe08901f5e79f
+306	6107	7947017220922024	CMakeFiles/HospitalManagmentQt.dir/ui/HospitalWindow.cpp.obj	cb08aa32458b448

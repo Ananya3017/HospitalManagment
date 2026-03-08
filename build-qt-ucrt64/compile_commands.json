@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/include -IC:/Users/anany/OneDrive/Desktop/HospitalManagment -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HospitalManagmentQt.dir\\HospitalManagmentQt_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\anany\\OneDrive\\Desktop\\HospitalManagment\\build-qt-ucrt64\\HospitalManagmentQt_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/mocs_compilation.cpp",
+  "output": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt.dir/HospitalManagmentQt_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/include -IC:/Users/anany/OneDrive/Desktop/HospitalManagment -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HospitalManagmentQt.dir\\app\\HospitalContext.cpp.obj -c C:\\Users\\anany\\OneDrive\\Desktop\\HospitalManagment\\app\\HospitalContext.cpp",
+  "file": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/app/HospitalContext.cpp",
+  "output": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt.dir/app/HospitalContext.cpp.obj"
+},
+{
+  "directory": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/include -IC:/Users/anany/OneDrive/Desktop/HospitalManagment -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HospitalManagmentQt.dir\\app\\HospitalDataCoordinator.cpp.obj -c C:\\Users\\anany\\OneDrive\\Desktop\\HospitalManagment\\app\\HospitalDataCoordinator.cpp",
+  "file": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/app/HospitalDataCoordinator.cpp",
+  "output": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt.dir/app/HospitalDataCoordinator.cpp.obj"
+},
+{
+  "directory": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/include -IC:/Users/anany/OneDrive/Desktop/HospitalManagment -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HospitalManagmentQt.dir\\persistence\\TsvDataStore.cpp.obj -c C:\\Users\\anany\\OneDrive\\Desktop\\HospitalManagment\\persistence\\TsvDataStore.cpp",
+  "file": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/persistence/TsvDataStore.cpp",
+  "output": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt.dir/persistence/TsvDataStore.cpp.obj"
+},
+{
+  "directory": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/include -IC:/Users/anany/OneDrive/Desktop/HospitalManagment -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HospitalManagmentQt.dir\\qt_main.cpp.obj -c C:\\Users\\anany\\OneDrive\\Desktop\\HospitalManagment\\qt_main.cpp",
+  "file": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/qt_main.cpp",
+  "output": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt.dir/qt_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/HospitalManagmentQt_autogen/include -IC:/Users/anany/OneDrive/Desktop/HospitalManagment -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HospitalManagmentQt.dir\\ui\\HospitalWindow.cpp.obj -c C:\\Users\\anany\\OneDrive\\Desktop\\HospitalManagment\\ui\\HospitalWindow.cpp",
+  "file": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/ui/HospitalWindow.cpp",
+  "output": "C:/Users/anany/OneDrive/Desktop/HospitalManagment/build-qt-ucrt64/CMakeFiles/HospitalManagmentQt.dir/ui/HospitalWindow.cpp.obj"
+}
+]

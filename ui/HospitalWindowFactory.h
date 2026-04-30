@@ -1,6 +1,5 @@
 #pragma once
 
-#include "../app/HospitalDataCoordinator.h"
 #include "../services/AppointmentService.h"
 #include "../services/AuthService.h"
 #include "../services/BillingService.h"
@@ -20,7 +19,6 @@ std::unique_ptr<QMainWindow> createHospitalWindow(
     services::AppointmentService& appointmentService,
     services::BillingService& billingService,
     services::AuthService& authService,
-    app::HospitalDataCoordinator& dataCoordinator,
     QWidget* parent = nullptr);
 
 }  // namespace hms::ui

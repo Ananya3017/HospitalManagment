@@ -1,5 +1,6 @@
 #pragma once
 
+#include <stdexcept>
 #include <string>
 #include <utility>
 
@@ -10,6 +11,33 @@ enum class AppointmentStatus {
     Completed,
     Cancelled
 };
+
+inline std::string toString(AppointmentStatus status) {
+    switch (status) {
+        case AppointmentStatus::Scheduled:
+            return "Scheduled";
+        case AppointmentStatus::Completed:
+            return "Completed";
+        case AppointmentStatus::Cancelled:
+            return "Cancelled";
+    }
+
+    throw std::invalid_argument("Unknown appointment status.");
+}
+
+inline AppointmentStatus appointmentStatusFromString(const std::string& value) {
+    if (value == "Scheduled") {
+        return AppointmentStatus::Scheduled;
+    }
+    if (value == "Completed") {
+        return AppointmentStatus::Completed;
+    }
+    if (value == "Cancelled") {
+        return AppointmentStatus::Cancelled;
+    }
+
+    throw std::invalid_argument("Unknown appointment status: " + value);
+}
 
 class Appointment final {
 public:

@@ -1,0 +1,26 @@
+# Build outputs
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Binaries and generated objects
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+
+# CMake/Ninja generated files
+.ninja_deps
+.ninja_log
+build.ninja
+
+# Local editor settings
+.vscode/
+.cache/
